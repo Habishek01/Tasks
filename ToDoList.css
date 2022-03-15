@@ -1,0 +1,33 @@
+/* Add your styles here */
+h1{
+    background-color: lawngreen;
+  }
+  .sList{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+  }
+  p{
+    text-align: start;
+    font-size: 20px;
+  }
+  .buttone{
+    text-align: end;
+  }
+  .container{
+    width:50%;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 20%;
+  
+  }
+  .input{
+    font-size: 20px;
+  }
+  .button{
+      font-size: 20px;
+  }
+  
+  
